@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oto235, a doctor of physical therapy getting into data science and data analytics. 
-- 👀 I’m interested in population health and wellness and using data to improve those areas. 
-- 🌱 I’m currently learning python and taking Google Data Analytics through Coursera.
+- 👀 Population health and fitness fascinate me.
+- 🌱 Currently enrolled in University of Texas' Masters of Science in Data Science (MSDS) program. 
 - 💞️ I’m looking to collaborate on health and wellness projects. 
 - 📫 How to reach me: oto235@gmail.com
 
