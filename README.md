@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oto235, a data scientist with a decade of health care experience as a physical therapist and military experience as a Navy SEAL.  
+- 👋 Hi, Jason Schwarz, here, an Austin, Texas based data scientist with a decade of health care experience (physical therapist) and military experience (Navy SEAL).  
 - 👀 Population health, math, and fitness excite me.
 - 🌱 Received a masters of science in data science, The University of Texas at Austin, December 2023.  
 - 💞️ Collaborating on health and wellness projects.
