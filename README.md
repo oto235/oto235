@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @oto235, a data scientist with a decade of health care experience along with military experience as a Navy SEAL.  
-- 👀 Population health, math, and fitness fascinate me.
-- 🌱 Recently received a masters in data science from The University of Texas at Austin.  
-- 💞️ I’m looking to collaborate on health and wellness projects. 
+- 👋 Hi, I’m @oto235, a data scientist with a decade of health care experience as a physical therapist and military experience as a Navy SEAL.  
+- 👀 Population health, math, and fitness excite me.
+- 🌱 Received a masters of science in data science, The University of Texas at Austin, December 2023.  
+- 💞️ Collaborating on health and wellness projects.
 - 📫 How to reach me: oto235@gmail.com
 
 <!---
